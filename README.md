@@ -22,3 +22,6 @@ Stimmverzerrer, Sounds,...
 
 
 # References
+Adding Audio - https://www.youtube.com/watch?v=xxHMALAvmlk&t=126s
+Change Background - https://www.youtube.com/watch?v=bItiWOkgHhc&t=385s
+Face Mesh - https://www.youtube.com/watch?v=_B0G1jIaxMA&t=5s
